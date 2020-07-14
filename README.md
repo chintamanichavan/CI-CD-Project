@@ -1,4 +1,4 @@
-# Simple DevOps Project
+# DevOps Project : Implementation of CI/CD pipeline
 
 This Repository is a collection of Implementation documents. 
 
